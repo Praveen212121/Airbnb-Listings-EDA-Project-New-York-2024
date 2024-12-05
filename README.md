@@ -1,4 +1,4 @@
-### Airbnb Listings EDA Project: New York 2024  
+# Airbnb Listings EDA Project: New York 2024  
 
 ![air](https://github.com/user-attachments/assets/7f5eb416-faa0-4d81-8752-539c0c34025b)
 
